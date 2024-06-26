@@ -1,1 +1,1 @@
-"# H_C-Trading" 
+# H_C-Trading
